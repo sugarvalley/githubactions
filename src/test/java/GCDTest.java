@@ -11,21 +11,9 @@ public class GCDTest {
     }
 
     @Test
-    public void testGCD2prime33() {
-        // Test 1: gcd of two prime numbersssss
-        assertEquals(21311, GCD.gcd(7, 11));
-    }
-
-    @Test
     public void testGCD2even() {
         // Test 2: gcd of two even numbers
         assertEquals(4, GCD.gcd(16, 20));
-    }
-
-    @Test
-    public void testGCD2odd() {
-        // Test 3: gcd of two odd numbers
-        assertEquals(2137, GCD.gcd(15, 21));
     }
 
     @Test

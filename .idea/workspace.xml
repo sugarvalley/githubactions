@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca4c6aa-45c4-4ab3-b3a4-621dc88a3b09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/GCDTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/GCDTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ca4c6aa-45c4-4ab3-b3a4-621dc88a3b09" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="NOTWORK" />
+        <entry key="$PROJECT_DIR$" value="siema2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
