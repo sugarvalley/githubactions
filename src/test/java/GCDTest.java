@@ -11,9 +11,9 @@ public class GCDTest {
     }
 
     @Test
-    public void testGCD2prime53() {
+    public void testGCD2prime33() {
         // Test 1: gcd of two prime numbersssss
-        assertEquals(2133, GCD.gcd(7, 11));
+        assertEquals(21311, GCD.gcd(7, 11));
     }
 
     @Test
