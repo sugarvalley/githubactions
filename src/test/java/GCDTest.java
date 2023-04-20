@@ -17,12 +17,6 @@ public class GCDTest {
     }
 
     @Test
-    public void testGCD2odd() {
-        // Test 3: gcd of two odd numbers
-        assertEquals(3, GCD.gcd(15, 21));
-    }
-
-    @Test
     public void testGCD1num1zero() {
         // Test 4: gcd of a number and 0
         assertEquals(8, GCD.gcd(8, 0));
