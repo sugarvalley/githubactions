@@ -25,7 +25,7 @@ public class GCDTest {
     @Test
     public void testGCD2odd() {
         // Test 3: gcd of two odd numbers
-        assertEquals(3, GCD.gcd(15, 21));
+        assertEquals(2137, GCD.gcd(15, 21));
     }
 
     @Test
